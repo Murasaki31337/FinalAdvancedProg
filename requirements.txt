@@ -1,1 +1,11 @@
+streamlit
+sentence-transformers
+chromadb
+llama-index
+ollama
+PyPDF2
+chardet
+matplotlib
+wordcloud
+sqlite3
 

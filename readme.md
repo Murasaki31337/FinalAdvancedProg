@@ -23,6 +23,7 @@ This project is a **Streamlit-based AI Knowledge Base** that enables users to up
 Ensure you have Python installed (Python 3.8+ recommended).
 
 ```bash
+pip install --upgrade pip
 pip install streamlit sentence-transformers chromadb llama-index ollama PyPDF2 chardet matplotlib wordcloud sqlite3
 ```
 
@@ -43,5 +44,3 @@ streamlit run final.py
 - 🔍 **Advanced Search**: Improve document retrieval with advanced query techniques.
 - 📑 **More File Types**: Support for additional formats like DOCX, CSV.
 - 🎨 **Enhanced UI**: Improve user experience with a more interactive design.
-
-
